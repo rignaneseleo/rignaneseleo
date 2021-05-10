@@ -5,9 +5,9 @@
 - 🌱 I'm interested in nature, ethics & sustainability
 - 🦹🏽‍♂️ Always excited about ideas to change the world
 - 🌏 I like to study abroad:
-  - Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
-  - Master's in 🇫🇮, 🇸🇪
-  - Summer school 2022 in 🇺🇸
+  - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
+  - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
+  - **Design Thinking & Innovation** Summer school 2022 in 🇺🇸
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
