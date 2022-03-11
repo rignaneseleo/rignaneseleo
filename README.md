@@ -1,4 +1,4 @@
-### Aloha 👋
+### Ciao 👋
 
 - 📱 I'm a Flutter developer, studying Human Computer Interaction
 - ✈️ Digital nomad wannabe
