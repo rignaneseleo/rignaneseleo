@@ -7,7 +7,7 @@
 - 🌏 I like to study abroad:
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
-  - **Design Thinking & Innovation** Summer school 2022 in 🇺🇸
+  - **Design Thinking & Innovation** Summer school 2023 in 🇺🇸
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
