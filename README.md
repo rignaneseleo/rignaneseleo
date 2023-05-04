@@ -1,18 +1,18 @@
 ### Ciao 👋
 
-- 📱 I'm a Flutter developer
+- 📱 I'm a Flutter developer freelance
 - ✈️ Digital nomad
 - 🌱 I'm interested in nature, ethics & sustainability
 - 🦹🏽‍♂️ Always excited about ideas to change the world
-- 🌏 I like to study abroad:
+- 🌏 International background:
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
-  - **Design Thinking & Innovation** Summer school 2023 in 🇺🇸
+  - **Design Thinking & Innovation** summer school in 🇺🇸
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
 - 💬 Telegram [@leorigna](https://telegram.me/leorigna)
-- 💼 Linkedin [rignaneseleo](https://www.linkedin.com/in/rignaneseleo)
+- 💼 Linkedin [/leorigna](https://www.linkedin.com/in/leorigna)
 - 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
 - 📫 Email dev.rignaneseleo@gmail.com
 
