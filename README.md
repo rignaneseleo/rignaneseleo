@@ -1,7 +1,7 @@
 ### Ciao 👋
 
-- 📱 I'm a Flutter developer, studying Human Computer Interaction
-- ✈️ Digital nomad wannabe
+- 📱 I'm a Flutter developer
+- ✈️ Digital nomad
 - 🌱 I'm interested in nature, ethics & sustainability
 - 🦹🏽‍♂️ Always excited about ideas to change the world
 - 🌏 I like to study abroad:
@@ -11,9 +11,9 @@
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
-- 💬 Telegram [@rignaneseleo](https://telegram.me/rignaneseleo)
+- 💬 Telegram [@leorigna](https://telegram.me/leorigna)
 - 💼 Linkedin [rignaneseleo](https://www.linkedin.com/in/rignaneseleo)
-- 🐦 Twitter [@rignaneseleo](https://twitter.com/rignaneseleo)
+- 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
 - 📫 Email dev.rignaneseleo@gmail.com
 
 
