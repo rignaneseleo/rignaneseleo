@@ -11,10 +11,7 @@
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
-- 💬 Telegram [@leorigna](https://telegram.me/leorigna)
-- 💼 Linkedin [/leorigna](https://www.linkedin.com/in/leorigna)
 - 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
-- 📫 Email dev.rignaneseleo@gmail.com
 
 
 <a href="https://profile-summary-for-github.com/user/rignaneseleo">
