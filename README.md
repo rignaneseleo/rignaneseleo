@@ -7,7 +7,7 @@
 - 🌏 International background:
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
-  - **Design Thinking & Innovation** summer school in 🇺🇸
+  - **Design Thinking & Storytelling** summer school in 🇺🇸
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
