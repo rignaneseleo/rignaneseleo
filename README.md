@@ -1,10 +1,11 @@
 ### Ciao 👋
 
-- 📱 I'm a Flutter developer freelance
-- ✈️ Digital nomad
+- 🚀 Freelancer
+- 📱 Flutter developer
+- 🎨 Focused on User-Centered design
 - 🌱 I'm interested in nature, ethics & sustainability
 - 🦹🏽‍♂️ Always excited about ideas to change the world
-- 🌏 International background:
+- 🌏 International background in SW Engineering and UI/UX Design:
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
   - **Design Thinking & Storytelling** summer school in 🇺🇸
