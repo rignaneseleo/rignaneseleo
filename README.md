@@ -9,9 +9,10 @@
 - 🦹🏽‍♂️ Always excited about ideas to change the world
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
-### Reach me 💡
-- 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
+### Got an idea? 💡 Reach me 
+- 💼 LinkedIn [/leorigna](https://www.linkedin.com/in/leorigna/)
 - 📥 Email [dev.rignaneseleo@gmail.com](mailto:dev.rignaneseleo@gmail.com)
+- 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
 
 
 <a href="https://profile-summary-for-github.com/user/rignaneseleo">
