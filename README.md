@@ -1,18 +1,17 @@
 ### Ciao 👋
 
-- 🚀 Freelancer
-- 📱 Flutter developer
-- 🎨 Focused on User-Centered design
-- 🌱 I'm interested in nature, ethics & sustainability
-- 🦹🏽‍♂️ Always excited about ideas to change the world
+- 🚀 Freelancer (inbox [dev.rignaneseleo@gmail.com](mailto:dev.rignaneseleo@gmail.com))
+- 📱 Flutter developer and UI/UX Designer
 - 🌏 International background in SW Engineering and UI/UX Design:
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
   - **Design Thinking & Storytelling** summer school in 🇺🇸
+- 🦹🏽‍♂️ Always excited about ideas to change the world
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Reach me 💡
 - 🐦 Twitter [@leorigna](https://twitter.com/leorigna)
+- 📥 Email [dev.rignaneseleo@gmail.com](mailto:dev.rignaneseleo@gmail.com)
 
 
 <a href="https://profile-summary-for-github.com/user/rignaneseleo">
