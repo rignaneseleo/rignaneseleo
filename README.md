@@ -6,7 +6,6 @@
   - **Software Engineering** Bachelor's in 🇮🇹, 🇱🇹, 🇪🇸
   - **Human Computer Interaction & Design** Master's in 🇫🇮, 🇸🇪
   - **Design Thinking & Storytelling** summer school in 🇺🇸
-- 🦹🏽‍♂️ Always excited about ideas to change the world
 - ⭐️ I'm mentee @ LTF (exclusive mentorship program for talented STEM students)
 
 ### Got an idea? 💡 Reach me 
