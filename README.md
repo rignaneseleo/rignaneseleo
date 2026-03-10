@@ -12,11 +12,15 @@ Worked on:
 - 🧪 [FunLab](https://thefunlabapp.com/) - TikTok alike app for science experiments
 - 🧑‍🧑‍🧒‍🧒 [Parenthood](https://theparenthoodapp.com/) - Parent Smarter, Not Harder 
 
-### 🫱🏻‍🫲 Reach me 
+---
+
+### Reach me 
 - 💼 LinkedIn [/leorigna](https://www.linkedin.com/in/leorigna/)
 - 📥 Email [github@leorigna.com](mailto:github@leorigna.com)
+  
+---
 
-<a href="https://profile-summary-for-github.com/user/rignaneseleo">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=rignaneseleo&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="rignaneseleo's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rignaneseleo&hide_langs_below=5&layout=compact" alt="rignaneseleo's language stats"/>
-</a>
+### Stats for nerds 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rignaneseleo&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rignaneseleo&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rignaneseleo&theme=city_lights&utcOffset=0)
+
