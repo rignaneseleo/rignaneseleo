@@ -6,6 +6,11 @@ My projects:
 - 📋 [lofa.cc](https://lofa.cc/) - TODO list with prioritization
 - ✈️ [nomadgroups.wiki](https://nomadgroups.wiki/) - Connect with locals before landing
 
+Open:
+- 👥 [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Unofficial Facebook mobile app, lightweight with no permissions.
+- 📊 [TgramAnalytics](https://github.com/tgram-analytics) - Track your website or app via Telegram
+- 📝 [ReminderBot](https://github.com/rignaneseleo/EchoLaterBot) - A bot to get reminders after some random time
+
 Worked on:
 - 🎾 [PlayReplay](https://www.playreplay.io/) - Track tennis matches
 - 🎧 [CORRD](https://corrd.fm/) - Discover new music
