@@ -5,11 +5,13 @@ My projects:
 - 🗓️ [scova.events](https://scova.events/) - Track the date of any event
 - 📋 [lofa.cc](https://lofa.cc/) - TODO list with prioritization
 - ✈️ [nomadgroups.wiki](https://nomadgroups.wiki/) - Connect with locals before landing
+- 💐 [Petals](https://mcp.florist/) - Order flowers via MCP
 
 Open:
 - 👥 [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Unofficial Facebook mobile app, lightweight with no permissions.
 - 📊 [TgramAnalytics](https://github.com/tgram-analytics) - Track your website or app via Telegram
 - 📝 [ReminderBot](https://github.com/rignaneseleo/EchoLaterBot) - A bot to get reminders after some random time
+- 🛬 [Groups for Nomads](https://github.com/rignaneseleo/groups-for-nomads) - Directory of chat groups around the world
 
 Worked on:
 - 🎾 [PlayReplay](https://www.playreplay.io/) - Track tennis matches
