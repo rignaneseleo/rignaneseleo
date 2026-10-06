@@ -3,9 +3,12 @@
 My projects:
 - 🌊 [onda.pics](https://onda.pics/) - Marketplace for surf photographers
 - 🗓️ [scova.events](https://scova.events/) - Track the date of any event
-- 📋 [lofa.cc](https://lofa.cc/) - TODO list with prioritization
 - ✈️ [nomadgroups.wiki](https://nomadgroups.wiki/) - Connect with locals before landing
+- 📹 [extend.video](https://extend.video/) & [expand.video](https://expand.video/)- Extend/expand any video with AI
+- 🗺️ [Vespucci](https://vespucci.travel/) - App for advance travelers
+- 🔨 [Gitwall](https://play.google.com/store/apps/details?id=com.leorigna.gitwall) - Dynamic wallpaper to show off your github activity
 - 💐 [Petals](https://mcp.florist/) - Order flowers via MCP
+- 📋 [lofa.cc](https://lofa.cc/) - TODO list with prioritization
 
 Open:
 - 👥 [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Unofficial Facebook mobile app, lightweight with no permissions.
