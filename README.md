@@ -8,6 +8,7 @@ My projects:
 - 🗺️ [Vespucci](https://vespucci.travel/) - App for advance travelers
 - 🔨 [Gitwall](https://play.google.com/store/apps/details?id=com.leorigna.gitwall) - Dynamic wallpaper to show off your github activity
 - 💐 [Petals](https://mcp.florist/) - Order flowers via MCP
+- 🏃 [GarminMCP](https://garminmcp.com/) - Easiest way to access your Garmin data via MCP
 - 📋 [lofa.cc](https://lofa.cc/) - TODO list with prioritization
 
 Open:
